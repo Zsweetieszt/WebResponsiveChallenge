@@ -34,3 +34,4 @@ Project ini dibuat tanpa menggunakan framework CSS seperti Bootstrap atau Tailwi
 
 **Link Proyek**
 
+https://dinaandkh.netlify.app/
